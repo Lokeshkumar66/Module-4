@@ -17,7 +17,6 @@ c=a.copy()
 c.update(b)
 print(c)
 ~~~
-
 ## Output
 <img width="1208" height="354" alt="image" src="https://github.com/user-attachments/assets/0afe2a5b-46b5-4e7c-8ca5-3982b4c8ce0f" />
 
